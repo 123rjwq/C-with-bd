@@ -1,0 +1,19 @@
+C:\Users\bursa\OneDrive\Documents\учебное\Разработка пм\БД2\ShopApp пр27бд\ShopApp пр27бд\obj\Debug\ShopApp пр27бд.csproj.AssemblyReference.cache
+C:\Users\bursa\OneDrive\Documents\учебное\Разработка пм\БД2\ShopApp пр27бд\ShopApp пр27бд\obj\Debug\ShopApp пр27бд.csproj.SuggestedBindingRedirects.cache
+C:\Users\bursa\OneDrive\Documents\учебное\Разработка пм\БД2\ShopApp пр27бд\ShopApp пр27бд\obj\Debug\ShopApp пр27бд.g.resources
+C:\Users\bursa\OneDrive\Documents\учебное\Разработка пм\БД2\ShopApp пр27бд\ShopApp пр27бд\obj\Debug\ShopApp_пр27бд.fmLogin.resources
+C:\Users\bursa\OneDrive\Documents\учебное\Разработка пм\БД2\ShopApp пр27бд\ShopApp пр27бд\obj\Debug\ShopApp_пр27бд.Forms.MainWindow.resources
+C:\Users\bursa\OneDrive\Documents\учебное\Разработка пм\БД2\ShopApp пр27бд\ShopApp пр27бд\obj\Debug\ShopApp_пр27бд.Properties.Resources.resources
+C:\Users\bursa\OneDrive\Documents\учебное\Разработка пм\БД2\ShopApp пр27бд\ShopApp пр27бд\obj\Debug\ShopApp пр27бд.csproj.GenerateResource.cache
+C:\Users\bursa\OneDrive\Documents\учебное\Разработка пм\БД2\ShopApp пр27бд\ShopApp пр27бд\obj\Debug\ShopApp пр27бд.csproj.CoreCompileInputs.cache
+C:\Users\bursa\OneDrive\Documents\учебное\Разработка пм\БД2\ShopApp пр27бд\ShopApp пр27бд\bin\Debug\ShopApp пр27бд.exe.config
+C:\Users\bursa\OneDrive\Documents\учебное\Разработка пм\БД2\ShopApp пр27бд\ShopApp пр27бд\bin\Debug\ShopApp пр27бд.exe
+C:\Users\bursa\OneDrive\Documents\учебное\Разработка пм\БД2\ShopApp пр27бд\ShopApp пр27бд\bin\Debug\ShopApp пр27бд.pdb
+C:\Users\bursa\OneDrive\Documents\учебное\Разработка пм\БД2\ShopApp пр27бд\ShopApp пр27бд\bin\Debug\EntityFramework.dll
+C:\Users\bursa\OneDrive\Documents\учебное\Разработка пм\БД2\ShopApp пр27бд\ShopApp пр27бд\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bursa\OneDrive\Documents\учебное\Разработка пм\БД2\ShopApp пр27бд\ShopApp пр27бд\bin\Debug\EntityFramework.xml
+C:\Users\bursa\OneDrive\Documents\учебное\Разработка пм\БД2\ShopApp пр27бд\ShopApp пр27бд\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bursa\OneDrive\Documents\учебное\Разработка пм\БД2\ShopApp пр27бд\ShopApp пр27бд\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\bursa\OneDrive\Documents\учебное\Разработка пм\БД2\ShopApp пр27бд\ShopApp пр27бд\obj\Debug\ShopApp пр27бд.csproj.CopyComplete
+C:\Users\bursa\OneDrive\Documents\учебное\Разработка пм\БД2\ShopApp пр27бд\ShopApp пр27бд\obj\Debug\ShopApp пр27бд.exe
+C:\Users\bursa\OneDrive\Documents\учебное\Разработка пм\БД2\ShopApp пр27бд\ShopApp пр27бд\obj\Debug\ShopApp пр27бд.pdb

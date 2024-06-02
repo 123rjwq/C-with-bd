@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище ShopTradeModelContainer" CdmEntityContainer="Shop_liissaEntities">
+    <EntitySetMapping Name="Categories">
+      <EntityTypeMapping TypeName="ShopTradeModel.Category">
+        <MappingFragment StoreEntitySet="Category">
+          <ScalarProperty Name="id_Category" ColumnName="id_Category" />
+          <ScalarProperty Name="CategoryName" ColumnName="CategoryName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Goods">
+      <EntityTypeMapping TypeName="ShopTradeModel.Good">
+        <MappingFragment StoreEntitySet="Good">
+          <ScalarProperty Name="id_Good" ColumnName="id_Good" />
+          <ScalarProperty Name="GoodName" ColumnName="GoodName" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+          <ScalarProperty Name="Picture" ColumnName="Picture" />
+          <ScalarProperty Name="Descriptions" ColumnName="Descriptions" />
+          <ScalarProperty Name="CountGood" ColumnName="CountGood" />
+          <ScalarProperty Name="Categoty_id" ColumnName="Categoty_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Sells">
+      <EntityTypeMapping TypeName="ShopTradeModel.Sell">
+        <MappingFragment StoreEntitySet="Sell">
+          <ScalarProperty Name="id_sell" ColumnName="id_sell" />
+          <ScalarProperty Name="Good_id" ColumnName="Good_id" />
+          <ScalarProperty Name="DataSell" ColumnName="DataSell" />
+          <ScalarProperty Name="SellCount" ColumnName="SellCount" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="ShopTradeModel.User">
+        <MappingFragment StoreEntitySet="Users">
+          <ScalarProperty Name="id_User" ColumnName="id_User" />
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="Role" ColumnName="Role" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

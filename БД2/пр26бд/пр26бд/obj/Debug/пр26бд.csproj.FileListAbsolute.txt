@@ -1,0 +1,14 @@
+C:\Users\bursa\OneDrive\Documents\учебное\Разработка пм\БД2\пр26бд\пр26бд\bin\Debug\пр26бд.exe.config
+C:\Users\bursa\OneDrive\Documents\учебное\Разработка пм\БД2\пр26бд\пр26бд\bin\Debug\пр26бд.exe
+C:\Users\bursa\OneDrive\Documents\учебное\Разработка пм\БД2\пр26бд\пр26бд\bin\Debug\пр26бд.pdb
+C:\Users\bursa\OneDrive\Documents\учебное\Разработка пм\БД2\пр26бд\пр26бд\obj\Debug\пр26бд.csproj.AssemblyReference.cache
+C:\Users\bursa\OneDrive\Documents\учебное\Разработка пм\БД2\пр26бд\пр26бд\obj\Debug\пр26бд.csproj.SuggestedBindingRedirects.cache
+C:\Users\bursa\OneDrive\Documents\учебное\Разработка пм\БД2\пр26бд\пр26бд\obj\Debug\пр26бд.g.resources
+C:\Users\bursa\OneDrive\Documents\учебное\Разработка пм\БД2\пр26бд\пр26бд\obj\Debug\пр26бд.AdminWindow.resources
+C:\Users\bursa\OneDrive\Documents\учебное\Разработка пм\БД2\пр26бд\пр26бд\obj\Debug\пр26бд.Properties.Resources.resources
+C:\Users\bursa\OneDrive\Documents\учебное\Разработка пм\БД2\пр26бд\пр26бд\obj\Debug\пр26бд.csproj.GenerateResource.cache
+C:\Users\bursa\OneDrive\Documents\учебное\Разработка пм\БД2\пр26бд\пр26бд\obj\Debug\пр26бд.csproj.CoreCompileInputs.cache
+C:\Users\bursa\OneDrive\Documents\учебное\Разработка пм\БД2\пр26бд\пр26бд\obj\Debug\пр26бд.exe
+C:\Users\bursa\OneDrive\Documents\учебное\Разработка пм\БД2\пр26бд\пр26бд\obj\Debug\пр26бд.pdb
+C:\Users\bursa\OneDrive\Documents\учебное\Разработка пм\БД2\пр26бд\пр26бд\obj\Debug\пр26бд.MainForm.resources
+C:\Users\bursa\OneDrive\Documents\учебное\Разработка пм\БД2\пр26бд\пр26бд\obj\Debug\пр26бд.Forms.GoodsForm.resources
